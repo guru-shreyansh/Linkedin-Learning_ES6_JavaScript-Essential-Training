@@ -38,7 +38,7 @@
 `Test Your Typing Speed`
 * **A Hotel on the Moon!** : [A Hotel on the Moon!](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/A-Hotel-on-the-Moon/index.html)
 
-`Hotel Website`
+`Hotel Booking Website`
 
 
 ## Analog Clock Output Screen
