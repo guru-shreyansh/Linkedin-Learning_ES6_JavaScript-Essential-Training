@@ -5,6 +5,8 @@
     height: 90vh;
     justify-content: center;
     align-items: middle;
+    background-image: url(Webpage-Background.jpg);
+    background-size: cover
 }
 
 .clockbox,
