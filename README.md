@@ -41,16 +41,16 @@
 
 
 ## Analog Clock Output Screen
-![Analog Clock Output Screen](Output-Screenshot-CLOCK.jpg)
+![Analog Clock Output Screen](Output-Screenshots/Output-Screenshot-CLOCK.jpg)
 
 
 ## Typing Speed Tester Output Screen
 | Typing Speed | Typing Test |
 | ------------- | ------------- |
-| <img src="Output-Screenshot-SPEED.jpg" width=500 height=325> | <img src="Output-Screenshot-TEST.jpg" width=500 height=325> |
+| <img src="Output-Screenshots/Output-Screenshot-SPEED.jpg" width=500 height=325> | <img src="Output-Screenshots/Output-Screenshot-TEST.jpg" width=500 height=325> |
 
 ## Hotel Moon Output Screen
-![Hotel Moon Output Screen](Output-Screenshot-HOTEL.jpg)
+![Hotel Moon Output Screen](Output-Screenshots/Output-Screenshot-HOTEL.jpg)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
