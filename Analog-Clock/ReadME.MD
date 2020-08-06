@@ -8,7 +8,7 @@
 
 # Analog Clock
 
-- [Webpage Link](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/Analog-Clock/Analog-Clock.html)
+- [Clock Link](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/Analog-Clock/Analog-Clock.html)
 - [Desktop Output Screen](#desktop-output-screen)
 
 `Linked.In Learning Course: Javascript Essential Training`
