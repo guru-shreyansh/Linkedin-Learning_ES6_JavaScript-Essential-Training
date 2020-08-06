@@ -10,7 +10,7 @@
 
 `Linkedin Course: JavaScript Essential Training by Morten Rand-Hendriksen`
 
-<img align='right' src="JavaScript-Essential-Training.jpg" height="525" widht="630">
+<img align='right' src="JavaScript-Essential-Training.jpg" height="525" widht="600">
 
 - [Analog Clock Output Screen](#analog-clock-output-screen)
 - [Typing Speed Tester Output Screen](#typing-speed-tester-output-screen)
