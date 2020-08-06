@@ -10,6 +10,9 @@
 
 `Linkedin Course: JavaScript Essential Training by Morten Rand-Hendriksen`
 
+<img align='right' src="JavaScript-Essential-Training.jpg" height="525" widht="630">
+
+
 - [Analog Clock Output Screen](#analog-clock-output-screen)
 - [Typing Speed Tester]#(typing-speed-tester)
 - [Hotel Moon](#hotel-moon)
@@ -27,7 +30,6 @@
 >`T`
 >`E`
 
-<img align='right' src="JavaScript-Essential-Training.jpg" height="525" widht="630">
 
 * **Analog Clock** : [Analog Clock](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/Analog-Clock/Analog-Clock.html)
 
