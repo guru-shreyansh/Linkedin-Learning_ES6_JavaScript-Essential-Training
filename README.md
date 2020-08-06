@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste):rabbit:, I'm Shreyansh Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
 <p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -12,8 +12,8 @@
 
 
 - [Analog Clock Output Screen](#analog-clock-output-screen)
-- [Typing Speed Tester]#(typing-speed-tester)
-- [Hotel Moon](#hotel-moon)
+- [Typing Speed Tester Output Screen]#(typing-speed-tester-output-screen)
+- [Hotel Moon Output Screen](#hotel-moon-output-screen)
 
 <img align='right' src="JavaScript-Essential-Training.jpg" height="525" widht="630">
 
