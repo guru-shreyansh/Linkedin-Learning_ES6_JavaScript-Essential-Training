@@ -8,7 +8,7 @@
 
 # Typing Speed Tester
 
-- [Webpage Link](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/+Typing-Speed-Tester+/Typing-Speed-Tester.html)
+- [Speed Tester Link](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/+Typing-Speed-Tester+/Typing-Speed-Tester.html)
 - [Desktop Output Screen](#desktop-output-screen)
 - [Result Output Screen](#result-output-screen)
 
