@@ -10,12 +10,11 @@
 
 `Linkedin Course: JavaScript Essential Training by Morten Rand-Hendriksen`
 
+<img align='right' src="JavaScript-Essential-Training.jpg" height="525" widht="630">
 
 - [Analog Clock Output Screen](#analog-clock-output-screen)
-- [Typing Speed Tester Output Screen]#(typing-speed-tester-output-screen)
+- [Typing Speed Tester Output Screen](#typing-speed-tester-output-screen)
 - [Hotel Moon Output Screen](#hotel-moon-output-screen)
-
-<img align='right' src="JavaScript-Essential-Training.jpg" height="525" widht="630">
 
 
 >`C`
