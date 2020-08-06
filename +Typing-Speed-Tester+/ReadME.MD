@@ -17,8 +17,8 @@
 ## Typing Speed Tester : [OUTPUT :musical_keyboard: Link](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/+Typing-Speed-Tester+/Typing-Speed-Tester.html)
 
 ## Desktop Output Screen
-![Desktop Output Screen](Desktop-Output-Screenshot.jpg)
+![Desktop Output Screen](Desktop-Output-Screenshot.png)
 ## Result Output Screen
-![Result Output Screen](Result-Output-Screenshot.jpg)
+![Result Output Screen](Result-Output-Screenshot.png)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
