@@ -8,7 +8,7 @@
 
 # A Hotel on the Moon!
 
-- [Webpage Link](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/A-Hotel-on-the-Moon/index.html)
+- [Hotel Link](https://guru-shreyansh.github.io/Linkedin-Learning_ES6_JavaScript-Essential-Training/A-Hotel-on-the-Moon/index.html)
 
 `Linked.In Learning Course: Javascript Essential Training`
 
